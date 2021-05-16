@@ -16,5 +16,5 @@ Please Visit my Portfolio : https://shreyas-ashtamkar.github.io/
 
 ### Thank you! for visiting my profile :blush:
  <a href="https://github.com/sumyak/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=burnt776">
+    <img src="https://komarev.com/ghpvc/?username=shreyas-ashtamkar">
 </a>

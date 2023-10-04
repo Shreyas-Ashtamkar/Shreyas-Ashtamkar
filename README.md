@@ -6,11 +6,7 @@
 
 - ⚡ Fun fact: I'm a workoholic. Not sleepoholic.
 
-![](https://github-readme-stats.vercel.app/api?username=shreyas-ashtamkar&show_icons=true&line_height=30)
-
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=shreyas-ashtamkar&)
-
+[![GitHub Streak](https://streak-stats-flame.vercel.app?user=Shreyas-Ashtamkar&theme=onedark-duo&border_radius=9&date_format=j%20M%5B%20Y%5D&background=90%2C000000%2C531E1E)](https://git.io/streak-stats)
 
 Please Visit my Portfolio : https://shreyas-ashtamkar.github.io/
 

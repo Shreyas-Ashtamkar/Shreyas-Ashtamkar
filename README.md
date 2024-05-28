@@ -9,14 +9,13 @@
 &nbsp;
 
 <!-- [![GitHub Streak](https://streak-stats-flame.vercel.app?user=Shreyas-Ashtamkar&theme=onedark-duo&border_radius=6&mode=weekly&card_width=820)](https://git.io/streak-stats) -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Shreyas-Ashtamkar&&theme=dark&border_radius=6&mode=weekly&card_width=820)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Shreyas-Ashtamkar&border_radius=9&mode=weekly&card_width=820&theme=transparent)](https://git.io/streak-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Shreyas-Ashtamkar&show_icons=true&theme=dark&border_radius=9" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Shreyas-Ashtamkar&show_icons=true&border_radius=9&theme=transparent" />
 </a> 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shreyas-Ashtamkar&layout=compact&langs_count=10&card_width=320&exclude_repo=Shreyas-Ashtamkar.github.io&hide=css,html&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shreyas-Ashtamkar&layout=compact&langs_count=10&card_width=362&border_radius=9&exclude_repo=Shreyas-Ashtamkar.github.io&hide=css,html&theme=transparent" />
 </a>
 
 &nbsp;
